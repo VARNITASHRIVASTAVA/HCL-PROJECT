@@ -1,0 +1,3 @@
+video_id,title,channel_title,category,content_type,publish_time,post_date,post_day,post_hour,views,likes,comment_count,is_deleted,is_zero_views,is_outlier,engagement_rate
+TEST_ZERO,Test zero views,Test,Sports,Other,2018-01-01 10:00:00+00:00,2018-01-01,Monday,15,0,0,0,False,True,False,
+TEST_NORMAL,Test normal video,Test,Entertainment,Other,2018-01-02 10:00:00+00:00,2018-01-02,Tuesday,15,1000,50,10,False,False,False,6.0
