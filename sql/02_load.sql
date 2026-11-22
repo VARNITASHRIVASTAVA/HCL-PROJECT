@@ -1,0 +1,3 @@
+-- Data is loaded from data/clean/posts_clean.csv into the posts table
+-- using pandas df.to_sql() in notebooks/02_sql.ipynb.
+-- In Oracle: use SQL Developer > Import Data wizard on posts_clean.csv.
